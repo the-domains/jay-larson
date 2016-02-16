@@ -1,0 +1,28 @@
+name: Jay Larson
+favicon: null
+layout_spectrum: 0.8009436584543437
+typography_spectrum: 0.6306350931990892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7343189953826368
+  lightness: 0.29490908212028444
+  saturation: 0.0333494886290282
+  rhythmicContrast: 0.3123618739191443
+purpose: []
